@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Environment variables
+.env
+local_settings.py
+
+# Temporary & Backup files created during development
+main_old.py
+main.py.bkp
+test_main_new.py
+*.log
+*.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+.history/
